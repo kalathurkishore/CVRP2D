@@ -3,7 +3,7 @@
 This repository contains the code and the data of the paper: CVRP2D: Optimized Route Navigation Considering Vehicle
 Capacity for Pickup-Delivery
 
-Submitted for the publication in SIGMOD'24. Below steps can be followed for Execution and Reproducing of the results.
+Submitted for the publication in DSAA 2023. Below steps can be followed for Execution and Reproducing of the results.
 
 ## Running the Code
 First unzip the `data.zip` as shown below 
