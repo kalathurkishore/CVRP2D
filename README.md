@@ -1,6 +1,6 @@
 # CVRP2D
 ## Overview
-This repository contains the code and the data of the paper: CVRP2D: Optimized Route Navigation Considering Vehicle
+This repository contains the code and the data of the paper: PIKU: Optimized Route Navigation Considering Vehicle
 Capacity for Pickup-Delivery
 
 Submitted for the publication in DSAA 2023. Below steps can be followed for Execution and Reproducing of the results.
