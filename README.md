@@ -1,7 +1,6 @@
-# CVRP2D
+# PIKU
 ## Overview
-This repository contains the code and the data of the paper: PIKU: Optimized Route Navigation Considering Vehicle
-Capacity for Pickup-Delivery
+This repository contains the code and the data of the paper: PIKU: Optimized Vehicle Capacity Utilization for Simultaneous Pickup and Delivery Problem
 
 Submitted for the publication in MobiSys 2024. Below steps can be followed for Execution and Reproducing of the results.
 
